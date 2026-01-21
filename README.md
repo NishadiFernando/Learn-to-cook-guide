@@ -39,9 +39,4 @@ The **Cooking Learning and Recipe Management Platform** is a web-based applicati
 - Manage user accounts and permissions  
 - Monitor platform activity and analytics  
 
----
 
-## 🚀 Installation & Setup
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-repo-name.git
